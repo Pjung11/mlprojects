@@ -5,4 +5,5 @@ matplotlib
 scikit-learn
 #catboost
 xgboost
+dill
 #-e . # this rebuilds the whole package, so comment out during dev
